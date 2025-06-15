@@ -1,0 +1,4 @@
+export const GETH_PROVIDER_URL = "http://127.0.0.1:51835";
+export const NETHERMIND_PROVIDER_URL = "http://127.0.0.1:51843";
+
+export const CONTRACT_ADDRESS = "0xb4B46bdAA835F8E4b4d8e208B6559cD267851051";
